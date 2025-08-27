@@ -59,3 +59,6 @@ Examples:
 - Performance: The system should load pages within 2 seconds and handle up to 1000 concurrent users.
 - Security: Ensure data encryption, secure login, and protect against common vulnerabilities.
 - Scalability: The system should be able to scale horizontally to handle increased traffic.
+
+# Use Case Diagrams
+Use Case Diagrams are used to visually represent the interaction intended between the user and the system.
