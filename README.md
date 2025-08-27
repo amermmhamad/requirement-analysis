@@ -62,3 +62,4 @@ Examples:
 
 # Use Case Diagrams
 Use Case Diagrams are used to visually represent the interaction intended between the user and the system.
+<img width="656" height="1011" alt="Image" src="https://github.com/user-attachments/assets/b0652ee5-8781-47d1-81d9-cec430c8e725" />
